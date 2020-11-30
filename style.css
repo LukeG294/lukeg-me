@@ -1,42 +1,30 @@
+.is-horizontal-center {
+    justify-content: center;
+}
+
+.button {
+    margin: 0.5em 0.5em;
+    padding: 1em !important;
+    font-size: 1.5em !important;
+}
+
 body {
-    background: linear-gradient(to bottom, #6699ff 0%, #66ffcc 100%);
-}
-h {
-  color: white
-}
-h{
-  font-family: "helvetica";
+    background: linear-gradient(#6699ff 0%, #66ffcc 100%);
 }
 
-
-img {
-  
-  
-  padding: 5px;
-  width: 150px;
-  
-  
-}
-h {
-  font-weight: bold;
-}
-text{
-  color:white
+.card {
+    background: rgba(255, 255, 255, 0.7);
+    margin-bottom: 50vh;
 }
 
-h2{
-  font-family: "helvetica";
-}
-h2{
-  color: white;
+.button svg,
+.button svg * {
+    fill: #3298dc;
+    height: 2em !important;
+    width: 2em !important;
 }
 
-p{
-  color:white
-}
-p{
-  size:50px
-}
-button{
-  background: linear-gradient(to bottom, #6699ff 0%, #33ccff 100%);
+#links {
+    flex-wrap: wrap;
+    justify-content: space-evenly;
 }
