@@ -1,0 +1,42 @@
+body {
+    background: linear-gradient(to bottom, #6699ff 0%, #66ffcc 100%);
+}
+h {
+  color: white
+}
+h{
+  font-family: "helvetica";
+}
+
+
+img {
+  
+  
+  padding: 5px;
+  width: 150px;
+  
+  
+}
+h {
+  font-weight: bold;
+}
+text{
+  color:white
+}
+
+h2{
+  font-family: "helvetica";
+}
+h2{
+  color: white;
+}
+
+p{
+  color:white
+}
+p{
+  size:50px
+}
+button{
+  background: linear-gradient(to bottom, #6699ff 0%, #33ccff 100%);
+}
