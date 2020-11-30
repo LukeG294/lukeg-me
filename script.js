@@ -29,11 +29,4 @@ function Dev(){
 function Brainly(){
   window.location.assign("https://brainly.com/app/profile/16118329")
 }
-function ask(){
-  var response = prompt("This section is only for admins and those with permission. Please enter the passcode or press cancel.")
-  
-    
-  
-    
-  
-}
+
