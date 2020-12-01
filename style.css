@@ -10,11 +10,11 @@
 
 body {
     background: linear-gradient(#6699ff 0%, #66ffcc 100%);
+    min-height: 100vh;
 }
 
 .card {
     background: rgba(255, 255, 255, 0.7);
-    margin-bottom: 50vh;
 }
 
 .button svg,
